@@ -8,8 +8,6 @@ This project aims to predict the presence of heart disease in patients using mac
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
-- [Results](#results)
 - [Web Application](#web-application)
 
 ## Introduction
