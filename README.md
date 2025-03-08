@@ -56,7 +56,7 @@ To run this project locally, follow these steps:
 
 3. **Model Evaluation**:
 
-   The models are evaluated using metrics like accuracy, precision, recall, and F1-score. The Random Forest classifier achieved the highest accuracy of 85%.
+   The models are evaluated using metrics like accuracy, precision, recall, and F1-score. The support vector machine model achieved the highest accuracy average of 84%.
 
 ## Web Application
 
