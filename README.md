@@ -65,5 +65,7 @@ A Streamlit web application is developed to provide an interactive interface for
 ```bash
 streamlit run streamlit.py
 ```
+Or the following link takes you immediately to the app:
+https://heart-disease-prediction2000.streamlit.app/
 
 This will launch the web application in your default web browser.
